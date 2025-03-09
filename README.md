@@ -7,7 +7,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 For the design of this webpage, i decided to go more retro pink kind of a vibe since it was in my mood to do so when I thought about this webpage idea. I created the design using canva and redid some of the icons and added gifs in to it to make the webpage more interactive!
 
 ### Main page: show users what the site do
-![1](https://github.com/user-attachments/assets/19dfe679-f83d-43be-aece-7199a760289a)
+![An all-in-one site](https://github.com/user-attachments/assets/d7e12381-fc20-498e-8f12-c06aeb02b931)
 
 ### Individual functionality pages:
 ![2](https://github.com/user-attachments/assets/ae4ea3f9-fecc-479e-9e01-e243e87da247)
